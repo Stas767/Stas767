@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I`m Stas
 
+I`m beginner backend developer.
+___
 
-<!-- **Stas767/Stas767** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+### Languages and Tools
+![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=python)
 
-Here are some ideas to get you started:
+![django](https://img.shields.io/badge/Django-090909?style=for-the-badge&logo=Django)
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![drf](https://img.shields.io/badge/DRF-090909?style=for-the-badge&logo=rest)
 
+![SQL](https://img.shields.io/badge/SQLite-090909?style=for-the-badge&logo=SQLite)
