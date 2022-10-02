@@ -18,6 +18,12 @@ ___
 ![json](https://img.shields.io/badge/json-090909?style=for-the-badge&logo=json)
 ![OAuth2.0](https://img.shields.io/badge/OAuth2.0-090909?style=for-the-badge)
 ![DRF](https://img.shields.io/badge/drf-090909?style=for-the-badge)
+___
+### My favorite projects:
+1. [Fitness tracker](https://github.com/Stas767/hw_python_oop) - module that counts steps and calories, written in the **OOP style**.
+2. Social network [YaTube](https://github.com/Stas767/hw05_final) on GitHub, or [YaTube_deploy](http://stanislavbaldzhy.pythonanywhere.com/) in the Internet. Written with **Django, Django ORM, GIT**.
+3. [Telegram bot](https://github.com/Stas767/homework_bot) - checks the status of homework and notifies if it has changed. Written with **python-telegram-bot, logging.**
+4. [API YaTube](https://github.com/Stas767/api_final_yatube) - written with **DRF, JSON, JWT + Djoser.**
 
 
 
