@@ -2,7 +2,7 @@
 
 I`m beginner backend developer.
 ___
-
+![Leetcode Stats](https://leetcard.jacoblin.cool/Stas767)
 ### Languages and Tools
  
 
